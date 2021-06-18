@@ -1,0 +1,342 @@
+
+
+.background{
+    background:url(mainbckgrn.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+/* Page Links */
+
+.heading1{
+    float: center;
+    width: 25%;
+}
+
+.heading2{
+    float: left;
+    font-size: 28px;
+    font-family: 'Berlin Sans FB';
+    background-color: darkgreen;
+    color: navy;
+    text-shadow: 0px 0px 6px rgba(255,255,255,0.7);
+}
+
+.heading3{
+    float: right;
+    font-size: 28px;
+    font-family: 'Berlin Sans FB';
+    background-color:darkgreen;
+    color: navy;
+    text-shadow: 0px 0px 6px rgba(255,255,255,0.7);
+}
+
+.titles{
+    text-align: center;
+    margin: auto;
+    width: 65%;
+    border: 5px rgb(37, 212, 14);
+    border-style: double dashed double dashed;
+    padding: 30px;
+}
+
+.titles2{
+    text-align: center;
+}
+
+/* Main Page Intro */
+
+.intro{
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Berlin Sans FB';
+    color:rgb(0, 0, 0);
+    background-color:darkgreen;
+    text-shadow: 0px 0px 6px rgba(255,255,255,0.7);
+}
+
+/* Top 5 section */
+.container{
+    text-align: center;
+}
+
+/* List no.1 */
+
+.box1{
+    display: flex;
+}
+
+.minibox1{
+    text-align: left;
+    flex: 70%;
+    padding: 5px;
+    font-size: 24px;
+    font-family: 'Berlin Sans FB';
+    color:rgb(255, 98, 7);
+    background-color:darkgreen;
+
+}
+
+.minibox2{
+    text-align: right;
+    flex: 30%;
+    padding: 5px;
+}
+
+.link1{
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Berlin Sans FB';
+    color:rgb(248, 124, 8);
+    background-color:rgb(150, 7, 245);
+    text-shadow: 0px 0px 6px rgba(255,255,255,0.7);
+    margin: auto;
+    width: 65%;
+    border: 5px rgb(37, 212, 14);
+    border-style: double dashed double dashed;
+    padding: 15px;
+}
+
+/* List no.2 */
+
+.box2{
+    display: flex;
+}
+
+.minibox3{
+    text-align: left;
+    flex: 70%;
+    padding: 5px;
+    font-size: 24px;
+    font-family: 'Berlin Sans FB';
+    color:rgb(235, 252, 5);
+    background-color:darkgreen;
+}
+
+.minibox4{
+    text-align: right;
+    flex: 30%;
+    padding: 5px;
+}
+
+.link2{
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Berlin Sans FB';
+    color:rgb(248, 124, 8);
+    background-color:rgb(150, 7, 245);
+    text-shadow: 0px 0px 6px rgba(255,255,255,0.7);
+    margin: auto;
+    width: 65%;
+    border: 5px rgb(37, 212, 14);
+    border-style: double dashed double dashed;
+    padding: 15px;
+}
+
+/* List no.3 */
+
+.box3{
+    display: flex;
+}
+
+.minibox5{
+    text-align: left;
+    flex: 70%;
+    padding: 5px;
+    font-size: 24px;
+    font-family: 'Berlin Sans FB';
+    color:rgb(10, 202, 236);
+    background-color:darkgreen;
+}
+
+.minibox6{
+    text-align: right;
+    flex: 30%;
+    padding: 5px;
+}
+
+.link3{
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Berlin Sans FB';
+    color:rgb(248, 124, 8);
+    background-color:rgb(150, 7, 245);
+    text-shadow: 0px 0px 6px rgba(255,255,255,0.7);
+    margin: auto;
+    width: 65%;
+    border: 5px rgb(37, 212, 14);
+    border-style: double dashed double dashed;
+    padding: 15px;
+}
+
+/* List no.4 */
+
+.box4{
+    display: flex;
+}
+
+.minibox7{
+    text-align: left;
+    flex: 70%;
+    padding: 5px;
+    font-size: 24px;
+    font-family: 'Berlin Sans FB';
+    color:rgb(235, 252, 5);
+    background-color:darkgreen;
+}
+
+.minibox8{
+    text-align: right;
+    flex: 30%;
+    padding: 5px;
+}
+
+.link4{
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Berlin Sans FB';
+    color:rgb(248, 124, 8);
+    background-color:rgb(150, 7, 245);
+    text-shadow: 0px 0px 6px rgba(255,255,255,0.7);
+    margin: auto;
+    width: 65%;
+    border: 5px rgb(37, 212, 14);
+    border-style: double dashed double dashed;
+    padding: 15px;
+}
+
+/* List no.5 */
+
+.box5{
+    display: flex;
+}
+
+.minibox9{
+    text-align: left;
+    flex: 70%;
+    padding: 5px;
+    font-size: 24px;
+    font-family: 'Berlin Sans FB';
+    color:rgb(255, 98, 7);
+    background-color:darkgreen;
+}
+
+.minibox10{
+    text-align: right;
+    flex: 30%;
+    padding: 5px;
+}
+
+.link5{
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Berlin Sans FB';
+    color:rgb(248, 124, 8);
+    background-color:rgb(150, 7, 245);
+    text-shadow: 0px 0px 6px rgba(255,255,255,0.7);
+    margin: auto;
+    width: 65%;
+    border: 5px rgb(37, 212, 14);
+    border-style: double dashed double dashed;
+    padding: 15px;
+}
+
+
+
+
+/* source section */
+
+.sourcelink{
+    text-align: right;
+    font-size: 24px;
+    font-family: 'Berlin Sans FB';
+    color:rgb(0, 0, 0);
+    background-color:darkgreen;
+    text-shadow: 0px 0px 6px rgba(255,255,255,0.7);
+}
+
+.sourceintro{
+    text-align: left;
+    font-size: 24px;
+    font-family: 'Berlin Sans FB';
+    color:rgb(0, 0, 0);
+    background-color:darkgreen;
+    text-shadow: 0px 0px 6px rgba(255,255,255,0.7);
+}
+
+.sourcemain{
+    text-align: left;
+    font-size: 24px;
+    font-family: 'Berlin Sans FB';
+    color:rgb(0, 0, 0);
+    background-color:darkgreen;
+    text-shadow: 0px 0px 6px rgba(255,255,255,0.7);
+}
+
+/* back to top section */
+
+.top{
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Berlin Sans FB';
+    color:rgb(0, 0, 0);
+    background-color:darkgreen;
+    text-shadow: 0px 0px 6px rgba(255,255,255,0.7);
+}
+
+/* about me section */
+
+.aboutme{
+    display:flex;
+}
+
+.bio{
+    text-align: left;
+    flex: 60%;
+    padding: 5px;
+    font-size: 24px;
+    font-family: 'Berlin Sans FB';
+    color:rgb(0, 0, 0);
+    background-color:darkgreen;
+    text-shadow: 0px 0px 6px rgba(255,255,255,0.7);
+}
+
+.myimg{
+    text-align: right;
+    flex: 40%;
+    padding: 5px;
+}
+
+/* Contact me section */
+
+.contactme{
+    text-align: center;
+    display: flex;
+    min-height: 50vh;
+    flex-direction: column;
+}
+
+.contactintro{
+    text-align: center;
+    flex: 50%;
+    padding: 5px;
+    font-size: 24px;
+    font-family: 'Berlin Sans FB';
+    color:rgb(0, 0, 0);
+    background-color:darkgreen;
+    text-shadow: 0px 0px 6px rgba(255,255,255,0.7);
+}
+
+.contactimg{
+    text-align: center;
+    flex: 50%;
+    padding: 5px;
+}
+
+.contdet{
+    text-align: center;
+    font-size: 34px;
+    font-family: 'Berlin Sans FB';
+    color:rgb(0, 0, 0);
+    background-color:darkgreen;
+    text-shadow: 0px 0px 6px rgba(255,255,255,0.7);
+}
